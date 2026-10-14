@@ -1,0 +1,525 @@
+anon_id,city_category,job_family,education_requirement,education_group,experience_requirement,salary_midpoint_k_cny_per_month,company_size_band,dim_understand_business,dim_master_models,dim_know_security,dim_can_deliver,sec_T1_general_infosec,sec_T2_data_governance,sec_T3_ai_model_safety,sec_T4_ethics_governance,sec_T5_business_compliance,sec_ai_specific_candidate_T3orT4,sec_any_T1toT5
+P0001,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,12.5,20-99,1,1,0,1,0,0,0,0,0,0,0
+P0002,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,12.5,1000-9999,1,1,0,1,0,0,0,0,0,0,0
+P0003,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,30.0,500-999,1,1,0,1,0,0,0,0,0,0,0
+P0004,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,10+ years,37.5,100-499,0,1,0,1,0,0,0,0,0,0,0
+P0005,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,No requirement,12.5,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0006,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,22.5,100-499,0,0,0,1,0,0,1,1,0,1,1
+P0007,Guangzhou,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,1-3 years,8.5,100-499,0,1,0,0,0,0,0,0,0,0,0
+P0008,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,24.0,20-99,1,1,0,1,0,0,0,0,0,0,0
+P0009,Guangzhou,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,1-3 years,12.5,100-499,0,0,0,0,0,0,0,0,0,0,0
+P0010,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,20.0,100-499,1,1,0,1,0,0,0,0,1,0,1
+P0011,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,12.5,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0012,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,No requirement,37.5,1000-9999,1,1,0,0,0,0,0,0,0,0,0
+P0013,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,14.5,20-99,0,0,0,0,0,0,0,0,0,0,0
+P0014,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,27.5,100-499,1,1,0,1,1,1,0,0,1,0,1
+P0015,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,,,500-999,1,0,0,1,0,0,0,0,0,0,0
+P0016,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,16.0,20-99,1,0,0,1,0,0,0,0,0,0,0
+P0017,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,No requirement,40.0,0-20,1,1,0,1,0,0,0,0,0,0,0
+P0018,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,,,100-499,1,1,0,1,0,0,0,0,1,0,1
+P0019,Shenzhen,1 Delivery and implementation (FDE-type),No requirement,No requirement,No requirement,3.5,0-20,1,1,0,1,0,0,0,0,0,0,0
+P0020,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,5-10 years,30.0,0-20,0,1,0,0,0,0,0,0,0,0,0
+P0021,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,155.0,,0,1,0,0,0,0,0,0,0,0,0
+P0022,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,30.0,10000+,1,1,0,1,0,0,0,0,0,0,0
+P0023,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,No requirement,35.0,,1,1,0,1,0,0,0,0,0,0,0
+P0024,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,No requirement,30.0,1000-9999,1,1,0,1,0,0,0,0,0,0,0
+P0025,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,No requirement,12.5,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0026,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,No requirement,9.5,100-499,1,0,0,1,0,0,0,0,0,0,0
+P0027,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,40.0,20-99,1,0,0,1,0,0,0,0,0,0,0
+P0028,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,18.0,10000+,1,1,0,1,0,0,0,0,0,0,0
+P0029,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,10.0,1000-9999,0,0,0,0,0,0,0,0,0,0,0
+P0030,Dongguan,1 Delivery and implementation (FDE-type),No requirement,No requirement,No requirement,105.0,0-20,1,1,0,1,0,0,0,0,0,0,0
+P0031,Dongguan,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,<1 year,17.5,0-20,1,1,0,1,0,0,0,0,0,0,0
+P0032,Dongguan,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,1-3 years,8.5,100-499,0,0,0,0,0,0,0,0,0,0,0
+P0033,Dongguan,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,35.0,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0034,Dongguan,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,<1 year,8.5,500-999,1,1,0,1,0,0,0,0,0,0,0
+P0035,Dongguan,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,40.0,20-99,1,1,0,1,0,0,0,0,0,0,0
+P0036,Dongguan,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,5-10 years,20.0,20-99,0,0,0,1,1,0,0,0,0,0,1
+P0037,Dongguan,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,5-10 years,18.5,10000+,1,0,0,1,0,0,0,0,0,0,0
+P0038,Dongguan,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,12.5,20-99,0,0,0,1,0,1,0,0,1,0,1
+P0039,Dongguan,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,19.5,0-20,1,1,0,1,0,0,0,0,0,0,0
+P0040,Dongguan,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,30.0,100-499,1,0,0,1,0,0,0,0,0,0,0
+P0041,Dongguan,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,,,100-499,0,1,0,1,0,0,0,0,0,0,0
+P0042,Dongguan,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,No requirement,20.0,20-99,0,0,0,1,0,0,0,0,0,0,0
+P0043,Foshan,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,No requirement,9.5,20-99,0,0,0,1,0,0,0,0,0,0,0
+P0044,Foshan,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,6.0,0-20,1,1,0,1,0,0,0,0,0,0,0
+P0045,Foshan,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,27.5,100-499,0,1,0,0,0,0,0,0,0,0,0
+P0046,Foshan,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,No requirement,7.5,20-99,1,1,0,1,0,0,0,0,0,0,0
+P0047,Foshan,5 AI applications and tools,No requirement,No requirement,No requirement,12.5,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0048,Foshan,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,3-5 years,8.5,1000-9999,0,0,0,0,0,0,0,0,0,0,0
+P0049,Foshan,6 Other related roles,Bachelor,Bachelor,1-3 years,8.0,0-20,0,0,0,1,0,0,0,0,0,0,0
+P0050,Foshan,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,No requirement,3.5,0-20,1,1,0,1,0,1,0,0,1,0,1
+P0051,Foshan,4 Product and operations,Junior college,Junior college or below,3-5 years,12.5,0-20,1,1,0,0,0,1,0,0,1,0,1
+P0052,Foshan,4 Product and operations,Bachelor,Bachelor,Student/graduate,2.5,0-20,1,0,0,0,0,0,0,0,0,0,0
+P0053,Foshan,5 AI applications and tools,Bachelor,Bachelor,3-5 years,16.0,100-499,1,0,0,0,0,0,0,0,0,0,0
+P0054,Foshan,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,1-3 years,12.5,20-99,1,0,0,1,0,0,0,0,0,0,0
+P0055,Foshan,6 Other related roles,No requirement,No requirement,No requirement,12.5,100-499,0,1,0,0,0,0,0,0,1,0,1
+P0056,Zhuhai,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,65.0,1000-9999,0,1,0,0,0,0,0,0,0,0,0
+P0057,Zhuhai,1 Delivery and implementation (FDE-type),No requirement,No requirement,5-10 years,11.5,20-99,1,1,0,1,0,0,0,0,0,0,0
+P0058,Zhuhai,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,5-10 years,30.0,1000-9999,1,1,0,1,0,0,0,0,0,0,0
+P0059,Zhuhai,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,No requirement,10.5,0-20,0,0,0,1,0,0,0,0,0,0,0
+P0060,Zhuhai,1 Delivery and implementation (FDE-type),No requirement,No requirement,No requirement,55.0,,1,1,0,1,0,1,0,0,1,0,1
+P0061,Zhuhai,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,5-10 years,32.5,100-499,0,0,0,0,0,1,0,0,1,0,1
+P0062,Zhuhai,5 AI applications and tools,Bachelor,Bachelor,1-3 years,10.0,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0063,Zhuhai,"3 Research, development and algorithms",Bachelor,Bachelor,Student/graduate,7.0,20-99,1,0,0,0,0,0,0,0,0,0,0
+P0064,Zhuhai,1 Delivery and implementation (FDE-type),Master,Master,No requirement,65.0,1000-9999,0,0,0,0,0,0,0,0,0,0,0
+P0065,Zhuhai,1 Delivery and implementation (FDE-type),Master,Master,No requirement,11.5,20-99,1,0,0,0,0,0,0,0,0,0,0
+P0066,Huizhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,5-10 years,27.5,10000+,1,0,0,1,0,0,0,0,0,0,0
+P0067,Huizhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,5-10 years,42.5,500-999,1,0,0,1,0,0,0,0,0,0,0
+P0068,Huizhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,5-10 years,17.5,10000+,1,1,0,1,0,0,0,0,0,0,0
+P0069,Huizhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,22.5,,0,0,0,0,0,0,0,0,0,0,0
+P0070,Huizhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,5-10 years,22.5,1000-9999,0,0,0,1,0,0,0,0,0,0,0
+P0071,Huizhou,4 Product and operations,Bachelor,Bachelor,5-10 years,27.5,1000-9999,0,0,0,1,0,0,0,0,0,0,0
+P0072,Huizhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,21.5,500-999,0,0,0,1,0,0,0,0,0,0,0
+P0073,Huizhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,30.0,500-999,0,0,0,0,0,0,0,0,0,0,0
+P0074,Huizhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,20.0,10000+,0,0,0,0,0,0,0,0,0,0,0
+P0075,Zhongshan,1 Delivery and implementation (FDE-type),Master,Master,3-5 years,18.0,20-99,0,0,0,1,0,0,0,0,0,0,0
+P0076,Zhongshan,"3 Research, development and algorithms",Bachelor,Bachelor,3-5 years,30.0,0-20,0,0,0,1,0,1,1,0,1,1,1
+P0077,Zhongshan,6 Other related roles,Bachelor,Bachelor,3-5 years,22.5,20-99,1,0,0,0,0,0,0,0,0,0,0
+P0078,Zhongshan,6 Other related roles,Master,Master,1-3 years,18.0,20-99,1,0,0,1,0,0,0,0,0,0,0
+P0079,Shantou,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,1-3 years,10.0,20-99,1,1,0,1,0,0,0,0,0,0,0
+P0080,Shantou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,10.5,100-499,0,1,0,1,0,0,0,1,0,1,1
+P0081,Shantou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,18.0,0-20,1,0,0,1,0,0,0,0,0,0,0
+P0082,Shantou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,12.5,0-20,0,0,0,1,0,0,0,0,0,0,0
+P0083,Shantou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,12.5,20-99,0,0,0,0,0,0,0,0,0,0,0
+P0084,Guangzhou,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,3-5 years,16.0,20-99,0,1,0,0,0,0,0,0,1,0,1
+P0085,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,15.5,20-99,0,1,0,0,0,0,0,0,0,0,0
+P0086,Guangzhou,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,3-5 years,9.0,20-99,0,0,1,1,0,0,0,0,1,0,1
+P0087,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,20.0,0-20,0,1,0,0,0,0,0,0,0,0,0
+P0088,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,5-10 years,45.0,100-499,0,1,0,0,0,1,0,0,0,0,1
+P0089,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,30.0,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0090,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,No requirement,17.5,1000-9999,0,0,0,1,0,0,0,0,0,0,0
+P0091,Guangzhou,"3 Research, development and algorithms",Doctorate,Doctorate,Student/graduate,42.5,20-99,1,1,0,1,1,1,1,0,1,1,1
+P0092,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,Student/graduate,,1000-9999,0,0,0,0,0,0,0,0,0,0,0
+P0093,Shenzhen,1 Delivery and implementation (FDE-type),No requirement,No requirement,No requirement,30.0,,0,1,0,1,0,0,0,0,0,0,0
+P0094,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,No requirement,15.5,20-99,1,1,0,1,0,1,0,0,0,0,1
+P0095,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,5-10 years,30.0,1000-9999,1,1,0,1,0,0,0,0,1,0,1
+P0096,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,,,20-99,1,0,0,1,0,0,0,0,0,0,0
+P0097,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,12.5,100-499,1,1,0,1,0,1,1,0,1,1,1
+P0098,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,16.5,20-99,0,1,0,0,0,0,0,0,0,0,0
+P0099,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,5-10 years,24.5,100-499,1,0,0,0,1,0,0,0,0,0,1
+P0100,Shenzhen,1 Delivery and implementation (FDE-type),Master,Master,3-5 years,30.0,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0101,Shenzhen,1 Delivery and implementation (FDE-type),Master,Master,1-3 years,20.0,10000+,0,1,0,1,0,1,0,0,0,0,1
+P0102,Shenzhen,1 Delivery and implementation (FDE-type),No requirement,No requirement,No requirement,55.0,,0,1,0,1,1,0,0,0,0,0,1
+P0103,Dongguan,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,3-5 years,10.5,20-99,0,0,0,1,0,0,0,0,0,0,0
+P0104,Dongguan,1 Delivery and implementation (FDE-type),No requirement,No requirement,3-5 years,30.0,0-20,0,0,0,1,0,0,0,0,0,0,0
+P0105,Dongguan,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,22.5,0-20,0,1,1,1,0,0,0,0,1,0,1
+P0106,Dongguan,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,1-3 years,9.5,100-499,1,0,0,1,0,0,0,0,0,0,0
+P0107,Dongguan,4 Product and operations,Bachelor,Bachelor,10+ years,17.5,1000-9999,0,0,0,0,0,0,0,0,0,0,0
+P0108,Dongguan,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,1-3 years,10.5,100-499,0,0,0,0,0,0,0,0,0,0,0
+P0109,Dongguan,2 Solutions and pre-sales,No requirement,No requirement,No requirement,12.5,20-99,1,0,0,1,0,0,0,0,0,0,0
+P0110,Foshan,"3 Research, development and algorithms",Bachelor,Bachelor,1-3 years,9.5,0-20,0,0,0,0,0,0,0,0,0,0,0
+P0111,Foshan,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,No requirement,15.5,100-499,0,1,0,1,0,0,0,0,0,0,0
+P0112,Foshan,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,25.0,10000+,0,1,0,0,0,0,0,0,0,0,0
+P0113,Foshan,6 Other related roles,Bachelor,Bachelor,1-3 years,37.5,,0,0,0,0,0,0,0,0,0,0,0
+P0114,Foshan,6 Other related roles,Bachelor,Bachelor,10+ years,12.0,100-499,0,0,0,0,0,0,0,0,0,0,0
+P0115,Foshan,6 Other related roles,Bachelor,Bachelor,No requirement,30.0,,1,0,0,1,0,0,0,0,0,0,0
+P0116,Foshan,6 Other related roles,Bachelor,Bachelor,10+ years,27.5,0-20,1,0,0,0,0,0,0,0,0,0,0
+P0117,Foshan,6 Other related roles,Doctorate,Doctorate,No requirement,50.0,500-999,1,0,0,1,0,0,0,0,0,0,0
+P0118,Zhuhai,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,3-5 years,22.5,20-99,0,1,0,1,0,0,0,0,0,0,0
+P0119,Zhuhai,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,No requirement,32.5,100-499,0,0,0,0,0,0,0,0,0,0,0
+P0120,Zhuhai,2 Solutions and pre-sales,No requirement,No requirement,1-3 years,8.0,20-99,1,0,0,1,0,0,0,0,0,0,0
+P0121,Zhuhai,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,12.5,20-99,0,0,0,1,0,0,0,0,0,0,0
+P0122,Zhuhai,5 AI applications and tools,Bachelor,Bachelor,5-10 years,50.0,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0123,Zhuhai,"3 Research, development and algorithms",Bachelor,Bachelor,No requirement,35.0,500-999,0,1,0,0,0,0,0,0,0,0,0
+P0124,Zhuhai,"3 Research, development and algorithms",Bachelor,Bachelor,1-3 years,7.5,0-20,0,0,0,1,0,0,0,0,0,0,0
+P0125,Zhuhai,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,22.5,20-99,0,0,0,0,0,0,0,0,0,0,0
+P0126,Zhuhai,6 Other related roles,Doctorate,Doctorate,1-3 years,47.5,100-499,0,0,0,0,0,0,0,0,0,0,0
+P0127,Huizhou,"3 Research, development and algorithms",Bachelor,Bachelor,5-10 years,42.5,,0,1,0,0,0,0,0,0,0,0,0
+P0128,Huizhou,6 Other related roles,Bachelor,Bachelor,3-5 years,20.0,10000+,0,0,0,1,1,0,0,0,0,0,1
+P0129,Huizhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,11.5,1000-9999,0,0,0,1,0,0,0,0,0,0,0
+P0130,Huizhou,6 Other related roles,Master,Master,5-10 years,45.0,,1,0,0,1,0,0,0,0,0,0,0
+P0131,Huizhou,"3 Research, development and algorithms",Bachelor,Bachelor,5-10 years,37.5,10000+,0,1,0,0,0,0,0,0,0,0,0
+P0132,Huizhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,22.5,100-499,0,1,0,0,0,0,0,0,0,0,0
+P0133,Huizhou,2 Solutions and pre-sales,Bachelor,Bachelor,No requirement,30.0,,1,0,0,1,0,0,0,0,0,0,0
+P0134,Huizhou,2 Solutions and pre-sales,Bachelor,Bachelor,5-10 years,30.0,,1,0,0,1,0,0,0,0,0,0,0
+P0135,Huizhou,6 Other related roles,Bachelor,Bachelor,5-10 years,30.0,,1,0,0,1,0,0,0,0,0,0,0
+P0136,Zhongshan,6 Other related roles,No requirement,No requirement,No requirement,7.5,20-99,1,0,0,0,0,0,0,0,0,0,0
+P0137,Zhongshan,6 Other related roles,Master,Master,1-3 years,32.5,20-99,0,1,1,0,0,0,0,0,1,0,1
+P0138,Zhongshan,6 Other related roles,Doctorate,Doctorate,10+ years,22.5,20-99,0,0,0,0,0,0,0,0,0,0,0
+P0139,Zhongshan,6 Other related roles,Bachelor,Bachelor,3-5 years,35.0,,1,0,0,1,0,0,0,0,0,0,0
+P0140,Zhongshan,"3 Research, development and algorithms",Bachelor,Bachelor,3-5 years,30.0,20-99,0,0,0,0,0,0,0,0,1,0,1
+P0141,Zhongshan,"3 Research, development and algorithms",Bachelor,Bachelor,10+ years,45.0,500-999,1,0,0,0,0,0,0,0,0,0,0
+P0142,Zhongshan,6 Other related roles,Junior college,Junior college or below,10+ years,30.0,100-499,0,0,0,0,0,0,0,0,0,0,0
+P0143,Zhongshan,6 Other related roles,Bachelor,Bachelor,No requirement,8.5,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0144,Zhongshan,6 Other related roles,Master,Master,No requirement,9.0,1000-9999,0,0,0,0,0,0,0,0,0,0,0
+P0145,Zhongshan,6 Other related roles,Bachelor,Bachelor,10+ years,13.5,0-20,0,0,0,0,0,0,0,0,0,0,0
+P0146,Shantou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,5-10 years,16.0,0-20,0,0,0,1,0,0,0,0,0,0,0
+P0147,Shantou,6 Other related roles,Bachelor,Bachelor,Student/graduate,8.5,100-499,0,0,0,0,0,0,0,0,0,0,0
+P0148,Shantou,6 Other related roles,Bachelor,Bachelor,1-3 years,8.0,20-99,0,0,0,0,0,0,0,0,0,0,0
+P0149,Shantou,6 Other related roles,No requirement,No requirement,10+ years,12.5,0-20,0,0,0,0,0,0,0,0,0,0,0
+P0150,Shantou,"3 Research, development and algorithms",Bachelor,Bachelor,3-5 years,15.0,100-499,0,0,0,0,0,0,0,0,0,0,0
+P0151,Shantou,6 Other related roles,Bachelor,Bachelor,No requirement,24.0,0-20,1,0,0,1,0,0,0,0,0,0,0
+P0152,Shantou,6 Other related roles,Bachelor,Bachelor,3-5 years,8.5,20-99,1,0,0,1,0,0,0,0,0,0,0
+P0153,Shantou,2 Solutions and pre-sales,Bachelor,Bachelor,5-10 years,12.5,0-20,1,1,0,1,0,0,0,0,0,0,0
+P0154,Jiangmen,6 Other related roles,Junior college,Junior college or below,10+ years,40.0,100-499,0,0,0,0,0,0,0,0,0,0,0
+P0155,Jiangmen,6 Other related roles,Bachelor,Bachelor,5-10 years,11.5,100-499,0,0,1,1,0,0,0,0,1,0,1
+P0156,Jiangmen,6 Other related roles,Bachelor,Bachelor,1-3 years,7.5,100-499,1,0,0,1,0,0,0,0,0,0,0
+P0157,Jiangmen,"3 Research, development and algorithms",Bachelor,Bachelor,3-5 years,16.0,100-499,0,0,0,1,0,0,0,0,0,0,0
+P0158,Jiangmen,4 Product and operations,Bachelor,Bachelor,No requirement,8.0,500-999,1,0,0,0,0,0,0,0,0,0,0
+P0159,Jiangmen,6 Other related roles,Junior college,Junior college or below,10+ years,11.5,100-499,0,0,0,0,0,0,0,0,0,0,0
+P0160,Jiangmen,6 Other related roles,Bachelor,Bachelor,3-5 years,9.0,100-499,0,0,0,0,1,0,0,0,0,0,1
+P0161,Jiangmen,6 Other related roles,Bachelor,Bachelor,1-3 years,5.0,500-999,1,0,0,0,0,0,0,0,0,0,0
+P0162,Zhaoqing,6 Other related roles,Junior college,Junior college or below,1-3 years,11.0,100-499,1,0,0,0,0,0,0,0,0,0,0
+P0163,Zhaoqing,6 Other related roles,No requirement,No requirement,5-10 years,31.0,20-99,0,0,0,0,0,0,0,0,0,0,0
+P0164,Zhaoqing,6 Other related roles,High school,Junior college or below,3-5 years,9.0,20-99,1,0,0,1,0,0,0,0,0,0,0
+P0165,Zhaoqing,6 Other related roles,Junior college,Junior college or below,3-5 years,9.0,100-499,0,0,0,1,0,0,0,0,0,0,0
+P0166,Zhaoqing,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,10.5,10000+,0,0,0,1,0,0,0,0,0,0,0
+P0167,Zhaoqing,6 Other related roles,Junior college,Junior college or below,1-3 years,16.5,0-20,1,0,0,1,0,0,0,0,0,0,0
+P0168,Zhaoqing,6 Other related roles,Junior college,Junior college or below,3-5 years,17.5,100-499,0,0,0,0,0,0,0,0,0,0,0
+P0169,Zhaoqing,6 Other related roles,Secondary vocational,Junior college or below,1-3 years,12.5,100-499,1,0,0,1,0,0,0,0,0,0,0
+P0170,Zhaoqing,6 Other related roles,Bachelor,Bachelor,No requirement,18.0,1000-9999,0,0,0,1,0,0,0,0,0,0,0
+P0171,Zhaoqing,6 Other related roles,Junior college,Junior college or below,3-5 years,9.5,10000+,1,0,0,0,0,0,0,0,0,0,0
+P0172,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,5-10 years,40.0,0-20,1,1,0,1,0,0,0,0,0,0,0
+P0173,Shenzhen,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,No requirement,,0-20,1,1,0,1,0,0,0,0,0,0,0
+P0174,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,,,10000+,1,1,0,1,0,0,0,0,0,0,0
+P0175,Shenzhen,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,,,20-99,1,1,0,1,0,0,0,0,0,0,0
+P0176,Shenzhen,"3 Research, development and algorithms",No requirement,No requirement,3-5 years,32.5,500-999,1,1,0,1,0,0,0,0,0,0,0
+P0177,Huizhou,6 Other related roles,Bachelor,Bachelor,3-5 years,30.0,,1,0,0,1,0,0,0,0,0,0,0
+P0178,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,5-10 years,30.0,100-499,1,0,0,1,0,0,0,0,0,0,0
+P0179,Guangzhou,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,1-3 years,8.0,100-499,1,0,0,1,0,0,0,0,0,0,0
+P0180,Guangzhou,5 AI applications and tools,Bachelor,Bachelor,1-3 years,30.0,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0181,Guangzhou,5 AI applications and tools,Bachelor,Bachelor,3-5 years,39.0,100-499,0,1,0,0,0,1,0,0,1,0,1
+P0182,Guangzhou,"3 Research, development and algorithms",Bachelor,Bachelor,10+ years,45.0,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0183,Guangzhou,5 AI applications and tools,Bachelor,Bachelor,5-10 years,27.5,,0,1,0,1,0,0,0,0,0,0,0
+P0184,Guangzhou,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,1-3 years,10.5,100-499,1,1,0,0,0,0,0,0,0,0,0
+P0185,Shenzhen,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,1-3 years,30.0,500-999,1,1,0,1,0,0,0,0,0,0,0
+P0186,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,No requirement,15.0,0-20,1,1,0,1,0,0,0,0,0,0,0
+P0187,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,No requirement,25.0,20-99,0,1,1,0,0,0,1,0,1,1,1
+P0188,Shenzhen,6 Other related roles,Junior college,Junior college or below,5-10 years,11.5,1000-9999,0,0,0,1,0,0,0,0,0,0,0
+P0189,Shenzhen,6 Other related roles,Bachelor,Bachelor,3-5 years,45.0,20-99,1,1,0,1,0,0,0,0,1,0,1
+P0190,Shenzhen,6 Other related roles,Bachelor,Bachelor,3-5 years,27.5,1000-9999,0,1,0,1,0,0,0,0,0,0,0
+P0191,Shenzhen,5 AI applications and tools,Junior college,Junior college or below,5-10 years,21.5,10000+,0,1,0,1,0,0,0,0,0,0,0
+P0192,Shenzhen,"3 Research, development and algorithms",Bachelor,Bachelor,1-3 years,30.0,100-499,0,1,0,0,0,0,0,0,0,0,0
+P0193,Shenzhen,5 AI applications and tools,No requirement,No requirement,5-10 years,37.5,1000-9999,0,1,0,1,0,0,0,0,0,0,0
+P0194,Shenzhen,"3 Research, development and algorithms",Bachelor,Bachelor,3-5 years,45.0,0-20,1,1,0,1,1,1,0,1,1,1,1
+P0195,Shenzhen,5 AI applications and tools,Master,Master,Student/graduate,30.0,10000+,1,1,0,1,0,0,0,0,0,0,0
+P0196,Shenzhen,"3 Research, development and algorithms",Bachelor,Bachelor,Student/graduate,30.0,,1,1,0,1,0,0,0,0,0,0,0
+P0197,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,20.0,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0198,Dongguan,"3 Research, development and algorithms",Junior college,Junior college or below,No requirement,10.5,20-99,1,0,0,1,0,0,0,0,0,0,0
+P0199,Dongguan,"3 Research, development and algorithms",Bachelor,Bachelor,Student/graduate,30.0,,0,1,0,1,0,0,0,0,0,0,0
+P0200,Dongguan,1 Delivery and implementation (FDE-type),No requirement,No requirement,No requirement,6.5,20-99,0,0,0,0,0,0,0,0,0,0,0
+P0201,Dongguan,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,5-10 years,25.0,,1,0,0,1,0,0,0,0,0,0,0
+P0202,Dongguan,"3 Research, development and algorithms",Bachelor,Bachelor,No requirement,25.0,,1,1,0,1,0,0,0,0,0,0,0
+P0203,Dongguan,"3 Research, development and algorithms",Bachelor,Bachelor,Student/graduate,30.0,10000+,1,1,0,1,0,0,0,0,0,0,0
+P0204,Dongguan,"3 Research, development and algorithms",No requirement,No requirement,No requirement,22.5,10000+,0,0,0,0,0,0,0,0,0,0,0
+P0205,Dongguan,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,3-5 years,12.5,100-499,1,0,0,1,0,0,0,0,0,0,0
+P0206,Dongguan,"3 Research, development and algorithms",Bachelor,Bachelor,1-3 years,12.5,0-20,1,1,0,1,0,0,0,0,0,0,0
+P0207,Dongguan,"3 Research, development and algorithms",Master,Master,No requirement,40.0,1000-9999,0,0,0,1,0,0,0,0,0,0,0
+P0208,Foshan,5 AI applications and tools,Junior college,Junior college or below,1-3 years,7.0,500-999,1,0,0,1,0,0,0,0,0,0,0
+P0209,Foshan,5 AI applications and tools,Junior college,Junior college or below,1-3 years,30.0,100-499,1,0,0,0,0,0,0,0,0,0,0
+P0210,Foshan,5 AI applications and tools,Bachelor,Bachelor,No requirement,50.0,,1,1,0,1,0,1,0,0,1,0,1
+P0211,Foshan,5 AI applications and tools,Bachelor,Bachelor,5-10 years,65.0,,0,1,0,0,0,0,0,0,0,0,0
+P0212,Foshan,6 Other related roles,Bachelor,Bachelor,1-3 years,10.5,0-20,1,0,0,0,0,0,0,0,0,0,0
+P0213,Foshan,6 Other related roles,Bachelor,Bachelor,3-5 years,12.5,20-99,0,0,0,1,0,0,0,0,0,0,0
+P0214,Foshan,6 Other related roles,Junior college,Junior college or below,1-3 years,9.5,0-20,1,0,0,1,0,0,0,0,0,0,0
+P0215,Zhuhai,5 AI applications and tools,No requirement,No requirement,No requirement,40.0,0-20,0,1,0,1,0,0,0,0,0,0,0
+P0216,Zhuhai,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,,,20-99,1,1,0,1,0,0,0,0,0,0,0
+P0217,Zhuhai,4 Product and operations,No requirement,No requirement,No requirement,30.0,,1,1,0,1,0,0,0,0,1,0,1
+P0218,Zhuhai,"3 Research, development and algorithms",Bachelor,Bachelor,5-10 years,30.0,100-499,1,1,0,1,0,0,0,0,1,0,1
+P0219,Zhuhai,5 AI applications and tools,Bachelor,Bachelor,3-5 years,16.5,0-20,1,1,0,1,0,0,0,0,1,0,1
+P0220,Zhuhai,5 AI applications and tools,Junior college,Junior college or below,10+ years,42.5,20-99,1,0,0,0,0,0,0,0,0,0,0
+P0221,Zhuhai,"3 Research, development and algorithms",Bachelor,Bachelor,,,100-499,0,1,0,1,0,0,0,0,0,0,0
+P0222,Zhuhai,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,10.0,100-499,1,0,0,1,0,0,0,0,0,0,0
+P0223,Zhuhai,5 AI applications and tools,Bachelor,Bachelor,3-5 years,7.5,20-99,1,1,0,1,0,0,0,0,1,0,1
+P0224,Zhuhai,6 Other related roles,Bachelor,Bachelor,1-3 years,8.5,0-20,1,0,0,1,0,0,0,0,0,0,0
+P0225,Zhuhai,6 Other related roles,Bachelor,Bachelor,No requirement,7.5,20-99,1,0,0,0,0,1,0,0,1,0,1
+P0226,Huizhou,5 AI applications and tools,Junior college,Junior college or below,No requirement,11.0,0-20,0,1,0,1,0,0,0,0,0,0,0
+P0227,Huizhou,5 AI applications and tools,Junior college,Junior college or below,No requirement,10.5,20-99,1,0,0,0,0,0,0,0,0,0,0
+P0228,Huizhou,6 Other related roles,No requirement,No requirement,No requirement,20.5,,0,0,0,0,0,0,0,0,0,0,0
+P0229,Huizhou,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,1-3 years,9.5,100-499,0,0,0,0,0,0,0,0,0,0,0
+P0230,Huizhou,"3 Research, development and algorithms",Doctorate,Doctorate,1-3 years,40.0,,1,1,0,1,0,0,0,0,0,0,0
+P0231,Huizhou,"3 Research, development and algorithms",Bachelor,Bachelor,5-10 years,32.5,,1,1,0,1,0,0,0,0,0,0,0
+P0232,Huizhou,6 Other related roles,Bachelor,Bachelor,1-3 years,7.5,0-20,1,0,0,0,0,0,0,0,0,0,0
+P0233,Huizhou,6 Other related roles,Junior college,Junior college or below,5-10 years,20.0,1000-9999,1,0,0,1,0,0,0,0,0,0,0
+P0234,Huizhou,4 Product and operations,Bachelor,Bachelor,3-5 years,7.5,20-99,0,1,0,1,0,0,0,0,0,0,0
+P0235,Huizhou,"3 Research, development and algorithms",No requirement,No requirement,No requirement,12.5,20-99,0,1,0,1,1,0,0,0,0,0,1
+P0236,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,28.5,0-20,1,1,0,1,0,0,0,0,0,0,0
+P0237,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,,,500-999,0,0,0,1,0,0,0,0,0,0,0
+P0238,Guangzhou,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,No requirement,9.5,20-99,1,0,0,1,0,0,0,0,0,0,0
+P0239,Dongguan,4 Product and operations,Bachelor,Bachelor,1-3 years,25.0,0-20,1,0,0,1,0,0,0,0,0,0,0
+P0240,Guangzhou,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,1-3 years,10.0,0-20,0,1,0,1,0,0,0,0,1,0,1
+P0241,Dongguan,6 Other related roles,Bachelor,Bachelor,3-5 years,20.0,20-99,1,0,0,1,1,0,0,0,0,0,1
+P0242,Foshan,"3 Research, development and algorithms",Doctorate,Doctorate,3-5 years,45.0,0-20,1,0,0,1,0,0,0,0,0,0,0
+P0243,Foshan,"3 Research, development and algorithms",Doctorate,Doctorate,Student/graduate,42.5,500-999,1,0,0,0,0,0,0,0,0,0,0
+P0244,Zhuhai,"3 Research, development and algorithms",Bachelor,Bachelor,3-5 years,21.5,500-999,1,0,0,1,0,0,0,0,0,0,0
+P0245,Huizhou,"3 Research, development and algorithms",Bachelor,Bachelor,10+ years,37.5,,0,0,0,0,0,0,0,0,0,0,0
+P0246,Huizhou,6 Other related roles,Bachelor,Bachelor,3-5 years,50.0,,0,0,0,0,0,0,0,0,0,0,0
+P0247,Zhongshan,6 Other related roles,Bachelor,Bachelor,10+ years,9.5,0-20,1,0,0,0,0,0,0,0,0,0,0
+P0248,Shantou,6 Other related roles,Junior college,Junior college or below,5-10 years,13.0,100-499,1,0,0,0,0,0,0,0,0,0,0
+P0249,Shantou,6 Other related roles,Bachelor,Bachelor,No requirement,3.5,20-99,0,0,0,0,0,0,0,0,0,0,0
+P0250,Jiangmen,"3 Research, development and algorithms",Bachelor,Bachelor,1-3 years,8.0,100-499,0,0,0,0,0,0,0,0,0,0,0
+P0251,Jiangmen,4 Product and operations,Bachelor,Bachelor,1-3 years,7.5,500-999,0,0,0,0,0,0,0,0,0,0,0
+P0252,Zhaoqing,6 Other related roles,Bachelor,Bachelor,5-10 years,14.5,10000+,1,0,0,1,0,0,0,0,0,0,0
+P0253,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,20.0,20-99,0,0,0,0,0,1,0,0,1,0,1
+P0254,Guangzhou,"3 Research, development and algorithms",Junior college,Junior college or below,No requirement,12.5,1000-9999,0,0,0,0,0,0,0,0,1,0,1
+P0255,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,18.0,1000-9999,1,1,0,1,0,0,0,0,0,0,0
+P0256,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,17.5,1000-9999,0,1,0,1,0,0,0,0,0,0,0
+P0257,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,26.5,100-499,0,0,0,0,0,0,0,0,0,0,0
+P0258,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,7.0,100-499,0,0,0,1,0,0,0,0,0,0,0
+P0259,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,57.5,100-499,0,0,0,1,0,0,0,0,1,0,1
+P0260,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,45.0,10000+,1,1,0,1,0,0,0,0,0,0,0
+P0261,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,55.0,,0,1,0,0,0,0,0,0,0,0,0
+P0262,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,30.0,10000+,1,1,0,1,0,1,0,0,0,0,1
+P0263,Shenzhen,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,5-10 years,16.0,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0264,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,No requirement,20.0,500-999,0,1,0,0,0,0,0,0,1,0,1
+P0265,Shenzhen,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,1-3 years,12.5,100-499,0,1,0,1,0,1,0,0,1,0,1
+P0266,Zhuhai,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,20.0,100-499,0,0,0,1,1,0,0,0,0,0,1
+P0267,Huizhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,11.5,100-499,0,0,1,0,0,0,0,0,0,0,0
+P0268,Zhongshan,6 Other related roles,Bachelor,Bachelor,1-3 years,20.5,,1,0,0,0,0,0,0,0,0,0,0
+P0269,Jiangmen,6 Other related roles,Bachelor,Bachelor,3-5 years,8.0,0-20,0,0,0,0,0,0,0,0,0,0,0
+P0270,Jiangmen,6 Other related roles,Bachelor,Bachelor,3-5 years,10.0,100-499,1,0,0,1,0,0,0,0,0,0,0
+P0271,Zhaoqing,6 Other related roles,Junior college,Junior college or below,3-5 years,10.5,10000+,0,0,0,0,0,0,0,0,0,0,0
+P0272,Zhaoqing,6 Other related roles,Bachelor,Bachelor,1-3 years,11.0,1000-9999,0,0,0,0,0,0,0,0,0,0,0
+P0273,Guangzhou,"3 Research, development and algorithms",Bachelor,Bachelor,3-5 years,35.0,1000-9999,0,0,0,0,0,0,0,0,0,0,0
+P0274,Guangzhou,"3 Research, development and algorithms",Junior college,Junior college or below,5-10 years,30.0,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0275,Guangzhou,"3 Research, development and algorithms",Bachelor,Bachelor,1-3 years,20.0,0-20,1,1,0,1,0,1,0,0,1,0,1
+P0276,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,5-10 years,21.5,1000-9999,1,1,1,1,1,1,1,0,1,1,1
+P0277,Guangzhou,5 AI applications and tools,Bachelor,Bachelor,Student/graduate,,100-499,0,0,0,0,0,0,0,0,0,0,0
+P0278,Dongguan,"3 Research, development and algorithms",Bachelor,Bachelor,No requirement,21.5,,1,1,0,1,0,0,0,0,0,0,0
+P0279,Dongguan,"3 Research, development and algorithms",Bachelor,Bachelor,5-10 years,37.5,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0280,Dongguan,5 AI applications and tools,Junior college,Junior college or below,3-5 years,22.5,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0281,Foshan,5 AI applications and tools,Secondary vocational,Junior college or below,No requirement,10.0,100-499,0,0,0,0,0,0,0,0,0,0,0
+P0282,Foshan,5 AI applications and tools,Doctorate,Doctorate,,,0-20,1,0,0,0,0,0,0,0,0,0,0
+P0283,Zhuhai,5 AI applications and tools,No requirement,No requirement,<1 year,16.0,0-20,0,1,0,0,0,0,0,0,0,0,0
+P0284,Zhongshan,5 AI applications and tools,Bachelor,Bachelor,No requirement,,0-20,0,1,0,0,0,0,0,0,1,0,1
+P0285,Zhongshan,6 Other related roles,Junior college,Junior college or below,No requirement,12.5,100-499,0,0,0,0,0,0,0,0,0,0,0
+P0286,Zhongshan,5 AI applications and tools,No requirement,No requirement,1-3 years,5.5,0-20,0,1,0,1,0,0,0,0,0,0,0
+P0287,Zhongshan,4 Product and operations,Bachelor,Bachelor,1-3 years,6.5,20-99,1,1,0,1,0,0,0,0,0,0,0
+P0288,Zhongshan,6 Other related roles,No requirement,No requirement,No requirement,30.0,0-20,1,0,0,1,0,0,0,0,0,0,0
+P0289,Zhongshan,5 AI applications and tools,Bachelor,Bachelor,3-5 years,18.0,100-499,1,1,0,0,0,0,0,0,0,0,0
+P0290,Zhongshan,6 Other related roles,No requirement,No requirement,No requirement,10.5,100-499,1,0,0,1,0,0,0,0,1,0,1
+P0291,Zhongshan,6 Other related roles,Bachelor,Bachelor,1-3 years,11.0,10000+,1,0,0,1,0,0,0,0,0,0,0
+P0292,Zhongshan,5 AI applications and tools,Junior college,Junior college or below,3-5 years,12.5,20-99,1,1,0,1,0,0,0,0,0,0,0
+P0293,Shantou,4 Product and operations,No requirement,No requirement,No requirement,30.0,20-99,1,0,0,1,0,0,0,0,1,0,1
+P0294,Shantou,4 Product and operations,Bachelor,Bachelor,1-3 years,6.5,100-499,1,0,0,1,0,0,0,0,0,0,0
+P0295,Shantou,6 Other related roles,Junior college,Junior college or below,1-3 years,8.5,20-99,1,0,0,1,0,0,0,0,0,0,0
+P0296,Shantou,5 AI applications and tools,Secondary vocational,Junior college or below,,,0-20,0,1,0,1,0,0,0,0,0,0,0
+P0297,Shantou,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,1-3 years,8.0,20-99,1,0,0,1,0,0,0,0,0,0,0
+P0298,Shantou,5 AI applications and tools,No requirement,No requirement,<1 year,8.5,0-20,0,1,0,0,0,0,0,0,0,0,0
+P0299,Shantou,4 Product and operations,Junior college,Junior college or below,1-3 years,,0-20,1,0,0,1,0,0,0,0,0,0,0
+P0300,Shantou,5 AI applications and tools,Junior college,Junior college or below,No requirement,9.5,100-499,0,1,0,0,0,0,0,0,0,0,0
+P0301,Shantou,4 Product and operations,No requirement,No requirement,No requirement,6.0,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0302,Shantou,6 Other related roles,Secondary vocational,Junior college or below,1-3 years,6.5,1000-9999,1,0,0,1,0,0,0,0,0,0,0
+P0303,Shantou,2 Solutions and pre-sales,Bachelor,Bachelor,1-3 years,7.5,0-20,1,1,0,1,0,0,0,0,0,0,0
+P0304,Shantou,6 Other related roles,No requirement,No requirement,No requirement,,100-499,0,0,0,0,0,0,0,0,0,0,0
+P0305,Jiangmen,4 Product and operations,No requirement,No requirement,No requirement,6.5,500-999,1,0,0,0,0,0,0,0,0,0,0
+P0306,Jiangmen,4 Product and operations,Junior college,Junior college or below,1-3 years,5.5,20-99,1,1,0,1,0,0,0,0,0,0,0
+P0307,Jiangmen,4 Product and operations,Bachelor,Bachelor,1-3 years,7.5,1000-9999,1,0,0,1,0,0,0,0,1,0,1
+P0308,Jiangmen,1 Delivery and implementation (FDE-type),Master,Master,No requirement,9.5,500-999,1,0,0,1,0,0,0,0,0,0,0
+P0309,Jiangmen,4 Product and operations,Junior high or below,Junior college or below,No requirement,7.5,0-20,1,0,0,0,0,0,0,0,0,0,0
+P0310,Jiangmen,6 Other related roles,High school,Junior college or below,1-3 years,12.5,0-20,1,0,0,0,0,0,0,0,0,0,0
+P0311,Jiangmen,6 Other related roles,No requirement,No requirement,No requirement,,20-99,0,0,0,0,0,0,0,0,0,0,0
+P0312,Jiangmen,6 Other related roles,No requirement,No requirement,No requirement,3.5,0-20,0,0,0,0,0,0,0,0,0,0,0
+P0313,Jiangmen,"3 Research, development and algorithms",Junior college,Junior college or below,<1 year,6.5,0-20,0,1,0,0,0,0,0,0,0,0,0
+P0314,Jiangmen,6 Other related roles,No requirement,No requirement,No requirement,3.5,0-20,0,0,0,0,0,0,0,0,0,0,0
+P0315,Jiangmen,1 Delivery and implementation (FDE-type),Master,Master,Student/graduate,10.5,100-499,0,0,0,0,0,0,0,0,0,0,0
+P0316,Jiangmen,6 Other related roles,Junior college,Junior college or below,,,10000+,1,0,0,1,0,0,0,0,0,0,0
+P0317,Zhaoqing,6 Other related roles,Bachelor,Bachelor,3-5 years,7.5,20-99,1,1,0,0,0,0,0,0,0,0,0
+P0318,Zhaoqing,4 Product and operations,Junior college,Junior college or below,3-5 years,8.5,500-999,1,0,0,1,0,0,0,0,0,0,0
+P0319,Zhaoqing,6 Other related roles,Junior college,Junior college or below,No requirement,4.0,0-20,1,1,0,1,0,0,0,0,0,0,0
+P0320,Zhaoqing,"3 Research, development and algorithms",Junior college,Junior college or below,3-5 years,20.0,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0321,Zhaoqing,6 Other related roles,Junior college,Junior college or below,1-3 years,11.5,1000-9999,0,0,0,1,0,0,0,0,0,0,0
+P0322,Zhaoqing,5 AI applications and tools,Junior college,Junior college or below,1-3 years,6.5,100-499,1,0,0,1,0,0,0,0,0,0,0
+P0323,Zhaoqing,4 Product and operations,Bachelor,Bachelor,5-10 years,19.0,20-99,1,1,0,1,0,0,0,0,0,0,0
+P0324,Guangzhou,5 AI applications and tools,No requirement,No requirement,3-5 years,25.0,20-99,1,1,0,1,0,0,0,0,0,0,0
+P0325,Guangzhou,2 Solutions and pre-sales,No requirement,No requirement,5-10 years,62.5,,1,1,0,1,0,0,0,0,1,0,1
+P0326,Guangzhou,2 Solutions and pre-sales,Bachelor,Bachelor,1-3 years,27.0,500-999,0,1,0,0,0,0,0,0,0,0,0
+P0327,Guangzhou,"3 Research, development and algorithms",Bachelor,Bachelor,5-10 years,40.0,,0,1,0,1,0,0,0,0,0,0,0
+P0328,Guangzhou,"3 Research, development and algorithms",No requirement,No requirement,No requirement,16.5,20-99,0,0,0,1,0,0,0,0,0,0,0
+P0329,Guangzhou,2 Solutions and pre-sales,Bachelor,Bachelor,3-5 years,42.5,0-20,1,1,0,1,0,1,0,0,1,0,1
+P0330,Guangzhou,"3 Research, development and algorithms",Junior college,Junior college or below,1-3 years,10.5,0-20,1,1,0,1,0,1,0,0,0,0,1
+P0331,Guangzhou,2 Solutions and pre-sales,Bachelor,Bachelor,No requirement,22.5,1000-9999,0,1,0,1,0,0,0,0,0,0,0
+P0332,Guangzhou,2 Solutions and pre-sales,Bachelor,Bachelor,3-5 years,30.0,10000+,0,1,0,0,0,0,0,0,0,0,0
+P0333,Guangzhou,2 Solutions and pre-sales,Bachelor,Bachelor,1-3 years,12.5,20-99,1,0,0,0,0,0,0,0,0,0,0
+P0334,Shenzhen,2 Solutions and pre-sales,Bachelor,Bachelor,Student/graduate,24.5,10000+,1,1,0,1,0,0,0,0,0,0,0
+P0335,Shenzhen,2 Solutions and pre-sales,No requirement,No requirement,No requirement,35.0,100-499,1,1,0,0,0,0,0,0,0,0,0
+P0336,Shenzhen,2 Solutions and pre-sales,Bachelor,Bachelor,5-10 years,62.5,,1,1,0,1,0,0,0,0,1,0,1
+P0337,Shenzhen,2 Solutions and pre-sales,Bachelor,Bachelor,5-10 years,45.0,500-999,1,1,0,1,0,0,0,0,0,0,0
+P0338,Shenzhen,"3 Research, development and algorithms",Bachelor,Bachelor,No requirement,47.5,100-499,0,0,0,1,0,0,0,1,1,1,1
+P0339,Shenzhen,2 Solutions and pre-sales,Bachelor,Bachelor,1-3 years,12.5,0-20,1,0,0,1,0,0,0,0,0,0,0
+P0340,Shenzhen,2 Solutions and pre-sales,Bachelor,Bachelor,1-3 years,35.0,500-999,1,1,0,1,0,0,0,0,0,0,0
+P0341,Shenzhen,2 Solutions and pre-sales,No requirement,No requirement,No requirement,30.0,20-99,1,1,0,1,0,0,0,0,0,0,0
+P0342,Shenzhen,2 Solutions and pre-sales,Bachelor,Bachelor,5-10 years,40.0,100-499,1,1,0,1,0,0,0,0,1,0,1
+P0343,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,10+ years,55.0,10000+,0,0,0,1,0,1,0,1,0,1,1
+P0344,Shenzhen,2 Solutions and pre-sales,Bachelor,Bachelor,3-5 years,30.0,1000-9999,1,1,0,1,0,0,0,0,0,0,0
+P0345,Shenzhen,2 Solutions and pre-sales,Bachelor,Bachelor,3-5 years,22.5,20-99,1,1,0,1,0,0,0,0,0,0,0
+P0346,Dongguan,2 Solutions and pre-sales,Bachelor,Bachelor,5-10 years,27.5,500-999,1,0,0,1,0,0,0,0,0,0,0
+P0347,Dongguan,"3 Research, development and algorithms",Bachelor,Bachelor,Student/graduate,30.0,10000+,1,1,0,1,0,0,0,0,0,0,0
+P0348,Dongguan,2 Solutions and pre-sales,Junior college,Junior college or below,1-3 years,8.5,100-499,0,0,0,1,0,0,0,0,0,0,0
+P0349,Dongguan,2 Solutions and pre-sales,Bachelor,Bachelor,3-5 years,17.5,20-99,1,1,0,1,0,1,0,0,0,0,1
+P0350,Dongguan,2 Solutions and pre-sales,Bachelor,Bachelor,1-3 years,17.5,20-99,0,0,0,1,0,0,0,0,0,0,0
+P0351,Dongguan,"3 Research, development and algorithms",Junior college,Junior college or below,1-3 years,22.5,500-999,1,1,0,1,0,0,0,0,0,0,0
+P0352,Dongguan,2 Solutions and pre-sales,Bachelor,Bachelor,3-5 years,10.5,0-20,1,0,0,1,0,0,0,0,0,0,0
+P0353,Dongguan,"3 Research, development and algorithms",Bachelor,Bachelor,3-5 years,24.0,20-99,0,1,0,0,0,0,0,0,0,0,0
+P0354,Foshan,2 Solutions and pre-sales,No requirement,No requirement,1-3 years,12.5,20-99,0,0,0,1,0,0,0,0,0,0,0
+P0355,Foshan,"3 Research, development and algorithms",Bachelor,Bachelor,,,0-20,0,0,0,1,0,0,0,0,0,0,0
+P0356,Zhuhai,4 Product and operations,Bachelor,Bachelor,1-3 years,,0-20,1,0,0,0,0,0,0,0,0,0,0
+P0357,Zhuhai,5 AI applications and tools,Bachelor,Bachelor,,,100-499,0,1,0,0,0,0,0,0,0,0,0
+P0358,Zhuhai,"3 Research, development and algorithms",Bachelor,Bachelor,Student/graduate,11.5,500-999,1,1,0,1,0,0,0,0,0,0,0
+P0359,Zhuhai,"3 Research, development and algorithms",Bachelor,Bachelor,No requirement,,0-20,0,1,0,1,0,0,0,0,0,0,0
+P0360,Zhuhai,5 AI applications and tools,Bachelor,Bachelor,1-3 years,10.0,20-99,1,1,0,0,0,0,0,0,1,0,1
+P0361,Huizhou,2 Solutions and pre-sales,Junior college,Junior college or below,No requirement,8.5,0-20,1,0,0,1,0,0,0,0,0,0,0
+P0362,Huizhou,"3 Research, development and algorithms",No requirement,No requirement,No requirement,,0-20,1,1,0,1,0,0,0,0,0,0,0
+P0363,Zhongshan,5 AI applications and tools,Junior college,Junior college or below,1-3 years,16.0,100-499,1,1,0,1,1,0,0,0,0,0,1
+P0364,Zhongshan,2 Solutions and pre-sales,Junior college,Junior college or below,1-3 years,14.0,0-20,1,1,0,0,0,0,0,0,0,0,0
+P0365,Zhongshan,5 AI applications and tools,Junior college,Junior college or below,1-3 years,26.5,1000-9999,1,0,0,0,0,0,0,0,0,0,0
+P0366,Zhongshan,4 Product and operations,Junior college,Junior college or below,<1 year,10.5,0-20,0,0,0,0,0,0,0,0,1,0,1
+P0367,Zhongshan,2 Solutions and pre-sales,Bachelor,Bachelor,3-5 years,40.0,1000-9999,1,1,0,1,0,0,0,0,0,0,0
+P0368,Shantou,6 Other related roles,Junior college,Junior college or below,1-3 years,7.5,0-20,1,0,0,1,0,0,0,0,0,0,0
+P0369,Shantou,5 AI applications and tools,No requirement,No requirement,1-3 years,13.5,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0370,Shantou,"3 Research, development and algorithms",Junior college,Junior college or below,1-3 years,6.5,0-20,0,0,0,1,0,0,0,0,0,0,0
+P0371,Shantou,4 Product and operations,Bachelor,Bachelor,5-10 years,28.5,0-20,1,1,0,1,0,0,0,0,0,0,0
+P0372,Jiangmen,4 Product and operations,Junior college,Junior college or below,1-3 years,6.5,0-20,1,0,0,1,0,0,0,0,0,0,0
+P0373,Jiangmen,4 Product and operations,Bachelor,Bachelor,1-3 years,,20-99,1,0,0,0,0,0,0,0,0,0,0
+P0374,Jiangmen,2 Solutions and pre-sales,Bachelor,Bachelor,1-3 years,7.5,1000-9999,1,0,0,1,0,0,0,0,1,0,1
+P0375,Jiangmen,6 Other related roles,Bachelor,Bachelor,,,0-20,1,0,0,0,0,0,0,0,0,0,0
+P0376,Jiangmen,"3 Research, development and algorithms",Junior college,Junior college or below,3-5 years,30.0,100-499,1,1,0,0,0,0,0,0,0,0,0
+P0377,Zhaoqing,2 Solutions and pre-sales,Bachelor,Bachelor,1-3 years,12.5,10000+,1,0,0,1,0,0,0,0,0,0,0
+P0378,Zhaoqing,6 Other related roles,Junior college,Junior college or below,1-3 years,5.0,100-499,1,0,0,1,0,0,0,0,0,0,0
+P0379,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,17.5,100-499,0,1,0,1,0,0,0,0,0,0,0
+P0380,Guangzhou,"3 Research, development and algorithms",Bachelor,Bachelor,5-10 years,16.0,20-99,0,1,0,0,0,0,0,0,0,0,0
+P0381,Guangzhou,"3 Research, development and algorithms",Bachelor,Bachelor,3-5 years,24.0,1000-9999,1,1,0,1,0,0,0,0,0,0,0
+P0382,Guangzhou,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,No requirement,8.5,20-99,0,1,0,1,0,0,0,0,0,0,0
+P0383,Shenzhen,1 Delivery and implementation (FDE-type),No requirement,No requirement,No requirement,22.5,20-99,0,1,0,1,0,0,0,0,0,0,0
+P0384,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,45.0,,1,1,0,1,0,0,0,0,0,0,0
+P0385,Shenzhen,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,3-5 years,23.0,20-99,0,0,0,1,0,0,0,0,0,0,0
+P0386,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,,,20-99,0,1,0,1,0,0,0,0,0,0,0
+P0387,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,No requirement,40.0,10000+,0,1,0,0,0,0,0,0,0,0,0
+P0388,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,27.5,500-999,0,1,0,1,0,0,0,0,0,0,0
+P0389,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,3-5 years,21.5,100-499,0,0,0,0,0,0,0,0,0,0,0
+P0390,Dongguan,1 Delivery and implementation (FDE-type),No requirement,No requirement,3-5 years,12.5,20-99,1,1,0,1,0,1,0,0,1,0,1
+P0391,Foshan,5 AI applications and tools,Bachelor,Bachelor,3-5 years,55.0,,1,1,0,1,0,0,0,0,0,0,0
+P0392,Foshan,4 Product and operations,Master,Master,3-5 years,18.0,100-499,0,0,0,1,0,0,0,1,0,1,1
+P0393,Zhuhai,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,16.0,100-499,0,1,0,1,0,0,0,0,0,0,0
+P0394,Zhongshan,6 Other related roles,Bachelor,Bachelor,1-3 years,11.5,20-99,0,0,0,0,0,0,0,0,0,0,0
+P0395,Zhongshan,2 Solutions and pre-sales,Bachelor,Bachelor,1-3 years,9.5,20-99,1,1,0,1,0,1,0,0,0,0,1
+P0396,Shantou,2 Solutions and pre-sales,Bachelor,Bachelor,5-10 years,12.5,0-20,0,0,0,0,0,0,0,0,0,0,0
+P0397,Shantou,"3 Research, development and algorithms",Bachelor,Bachelor,3-5 years,15.5,20-99,0,0,0,0,0,0,0,0,0,0,0
+P0398,Shantou,"3 Research, development and algorithms",Bachelor,Bachelor,3-5 years,7.5,1000-9999,0,0,0,1,0,0,0,0,0,0,0
+P0399,Jiangmen,5 AI applications and tools,Junior college,Junior college or below,,,100-499,0,1,0,1,0,0,0,0,0,0,0
+P0400,Jiangmen,2 Solutions and pre-sales,Bachelor,Bachelor,3-5 years,11.5,100-499,0,1,1,1,0,1,0,0,1,0,1
+P0401,Jiangmen,"3 Research, development and algorithms",Bachelor,Bachelor,5-10 years,9.5,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0402,Zhaoqing,6 Other related roles,Secondary vocational,Junior college or below,<1 year,7.5,0-20,1,0,0,1,0,0,0,0,0,0,0
+P0403,Zhaoqing,6 Other related roles,Bachelor,Bachelor,No requirement,8.5,20-99,0,0,0,0,0,0,0,0,0,0,0
+P0404,Guangzhou,5 AI applications and tools,Bachelor,Bachelor,10+ years,50.0,1000-9999,1,1,0,1,0,0,0,0,0,0,0
+P0405,Guangzhou,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,3-5 years,11.0,1000-9999,0,0,0,1,0,1,0,0,0,0,1
+P0406,Guangzhou,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,No requirement,16.0,500-999,1,0,0,1,0,0,0,0,0,0,0
+P0407,Guangzhou,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,1-3 years,10.5,0-20,1,1,0,1,0,0,0,0,0,0,0
+P0408,Guangzhou,5 AI applications and tools,Bachelor,Bachelor,1-3 years,32.5,0-20,0,1,0,1,0,0,0,0,0,0,0
+P0409,Guangzhou,2 Solutions and pre-sales,Junior college,Junior college or below,3-5 years,10.0,1000-9999,1,1,0,1,0,0,0,0,0,0,0
+P0410,Guangzhou,6 Other related roles,Bachelor,Bachelor,No requirement,37.5,1000-9999,0,1,0,1,0,0,1,0,0,1,1
+P0411,Guangzhou,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,No requirement,9.5,20-99,1,0,0,1,0,0,0,0,0,0,0
+P0412,Guangzhou,6 Other related roles,Bachelor,Bachelor,5-10 years,,0-20,1,0,0,0,0,0,0,0,0,0,0
+P0413,Guangzhou,"3 Research, development and algorithms",Doctorate,Doctorate,5-10 years,45.0,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0414,Shenzhen,5 AI applications and tools,Junior college,Junior college or below,3-5 years,40.0,500-999,1,1,0,0,0,0,0,0,0,0,0
+P0415,Shenzhen,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,3-5 years,14.5,10000+,0,0,0,1,0,0,0,0,0,0,0
+P0416,Shenzhen,2 Solutions and pre-sales,Bachelor,Bachelor,3-5 years,35.0,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0417,Shenzhen,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,5-10 years,17.5,1000-9999,1,0,0,1,0,0,0,0,0,0,0
+P0418,Shenzhen,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,1-3 years,9.0,20-99,1,0,0,1,1,0,0,0,1,0,1
+P0419,Shenzhen,4 Product and operations,Bachelor,Bachelor,1-3 years,10.5,0-20,1,1,0,1,0,1,0,0,1,0,1
+P0420,Shenzhen,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,1-3 years,10.0,0-20,0,0,0,1,0,0,0,0,0,0,0
+P0421,Dongguan,6 Other related roles,No requirement,No requirement,No requirement,18.0,20-99,1,0,0,1,0,0,0,0,0,0,0
+P0422,Dongguan,6 Other related roles,Junior college,Junior college or below,1-3 years,40.0,100-499,1,0,0,0,0,0,0,0,0,0,0
+P0423,Dongguan,5 AI applications and tools,Junior college,Junior college or below,No requirement,32.5,1000-9999,1,1,0,0,0,0,0,0,0,0,0
+P0424,Dongguan,5 AI applications and tools,Bachelor,Bachelor,Student/graduate,27.5,10000+,1,1,0,0,0,0,0,0,0,0,0
+P0425,Dongguan,4 Product and operations,Junior college,Junior college or below,1-3 years,12.5,20-99,0,0,0,0,0,0,0,0,0,0,0
+P0426,Dongguan,"3 Research, development and algorithms",Bachelor,Bachelor,3-5 years,27.5,,1,1,0,1,0,1,0,0,1,0,1
+P0427,Dongguan,2 Solutions and pre-sales,Junior college,Junior college or below,1-3 years,25.0,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0428,Dongguan,2 Solutions and pre-sales,No requirement,No requirement,10+ years,,20-99,1,1,0,0,0,0,0,0,0,0,0
+P0429,Dongguan,5 AI applications and tools,Bachelor,Bachelor,,,0-20,0,0,0,0,0,0,0,0,0,0,0
+P0430,Foshan,5 AI applications and tools,Junior college,Junior college or below,1-3 years,9.0,1000-9999,1,0,0,0,0,0,0,0,0,0,0
+P0431,Zhuhai,1 Delivery and implementation (FDE-type),No requirement,No requirement,3-5 years,9.5,20-99,1,0,0,0,0,0,0,0,0,0,0
+P0432,Zhuhai,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,,0-20,0,0,0,0,0,0,0,0,0,0,0
+P0433,Huizhou,6 Other related roles,Junior college,Junior college or below,No requirement,10.5,0-20,1,1,0,1,0,0,0,0,0,0,0
+P0434,Huizhou,5 AI applications and tools,No requirement,No requirement,1-3 years,7.0,0-20,0,0,0,0,0,0,0,0,0,0,0
+P0435,Huizhou,6 Other related roles,Junior college,Junior college or below,No requirement,6.5,0-20,1,0,0,1,0,0,0,0,0,0,0
+P0436,Huizhou,6 Other related roles,Junior college,Junior college or below,1-3 years,6.5,0-20,0,0,0,0,0,0,0,0,0,0,0
+P0437,Huizhou,1 Delivery and implementation (FDE-type),No requirement,No requirement,No requirement,12.5,500-999,1,0,0,1,0,0,0,0,0,0,0
+P0438,Huizhou,5 AI applications and tools,Junior college,Junior college or below,No requirement,7.5,0-20,1,1,0,1,0,0,0,0,0,0,0
+P0439,Zhongshan,6 Other related roles,No requirement,No requirement,1-3 years,4.5,20-99,0,0,0,0,0,0,0,0,0,0,0
+P0440,Zhongshan,1 Delivery and implementation (FDE-type),Junior college,Junior college or below,No requirement,6.0,20-99,1,0,0,1,0,0,0,0,0,0,0
+P0441,Zhongshan,4 Product and operations,Secondary vocational,Junior college or below,No requirement,7.5,0-20,1,0,0,0,0,0,0,0,0,0,0
+P0442,Zhongshan,2 Solutions and pre-sales,No requirement,No requirement,No requirement,6.5,100-499,1,0,0,1,0,0,0,0,0,0,0
+P0443,Zhongshan,6 Other related roles,No requirement,No requirement,1-3 years,,0-20,1,1,0,0,0,0,0,0,0,0,0
+P0444,Zhongshan,6 Other related roles,No requirement,No requirement,No requirement,5.5,100-499,1,0,0,1,0,0,0,0,0,0,0
+P0445,Shantou,6 Other related roles,Junior college,Junior college or below,No requirement,5.5,20-99,0,0,0,0,0,0,0,0,0,0,0
+P0446,Jiangmen,6 Other related roles,Secondary vocational,Junior college or below,5-10 years,,500-999,1,0,0,0,0,0,0,0,0,0,0
+P0447,Jiangmen,1 Delivery and implementation (FDE-type),Secondary vocational,Junior college or below,1-3 years,,0-20,1,0,0,1,0,0,0,0,0,0,0
+P0448,Jiangmen,6 Other related roles,Junior high or below,Junior college or below,1-3 years,22.5,100-499,1,0,0,1,0,0,0,0,0,0,0
+P0449,Zhaoqing,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,10.5,0-20,1,0,0,0,0,0,0,0,0,0,0
+P0450,Zhaoqing,6 Other related roles,No requirement,No requirement,No requirement,20.0,20-99,0,0,0,0,0,0,0,0,0,0,0
+P0451,Zhaoqing,4 Product and operations,Secondary vocational,Junior college or below,1-3 years,7.5,20-99,1,0,0,1,0,0,0,0,0,0,0
+P0452,Zhaoqing,"3 Research, development and algorithms",Secondary vocational,Junior college or below,No requirement,6.0,0-20,1,1,0,1,0,0,0,0,1,0,1
+P0453,Guangzhou,"3 Research, development and algorithms",Bachelor,Bachelor,,,20-99,1,1,0,1,0,0,0,0,0,0,0
+P0454,Guangzhou,"3 Research, development and algorithms",Bachelor,Bachelor,3-5 years,17.5,20-99,0,1,0,1,0,0,0,0,0,0,0
+P0455,Guangzhou,"3 Research, development and algorithms",Bachelor,Bachelor,3-5 years,45.0,10000+,0,1,0,1,0,0,0,0,0,0,0
+P0456,Guangzhou,"3 Research, development and algorithms",Bachelor,Bachelor,,,10000+,1,1,0,1,0,0,0,0,0,0,0
+P0457,Guangzhou,"3 Research, development and algorithms",Master,Master,No requirement,55.0,10000+,0,1,0,0,0,0,0,0,0,0,0
+P0458,Guangzhou,"3 Research, development and algorithms",Bachelor,Bachelor,3-5 years,50.0,20-99,0,1,0,0,0,0,0,0,0,0,0
+P0459,Guangzhou,"3 Research, development and algorithms",Master,Master,3-5 years,45.0,10000+,0,1,0,1,0,0,0,0,0,0,0
+P0460,Guangzhou,"3 Research, development and algorithms",Bachelor,Bachelor,<1 year,12.5,0-20,0,1,0,1,0,0,0,0,0,0,0
+P0461,Guangzhou,"3 Research, development and algorithms",Bachelor,Bachelor,5-10 years,37.5,100-499,1,0,0,1,0,0,0,0,0,0,0
+P0462,Guangzhou,"3 Research, development and algorithms",Bachelor,Bachelor,1-3 years,45.0,10000+,0,0,0,1,0,0,0,0,0,0,0
+P0463,Guangzhou,"3 Research, development and algorithms",Bachelor,Bachelor,1-3 years,12.5,0-20,0,1,0,1,0,0,0,0,0,0,0
+P0464,Guangzhou,"3 Research, development and algorithms",Bachelor,Bachelor,3-5 years,55.0,10000+,0,1,0,1,0,0,0,0,0,0,0
+P0465,Guangzhou,"3 Research, development and algorithms",Bachelor,Bachelor,3-5 years,45.0,10000+,0,1,0,1,0,0,0,0,0,0,0
+P0466,Guangzhou,"3 Research, development and algorithms",Bachelor,Bachelor,3-5 years,40.0,1000-9999,0,1,0,1,0,0,0,0,0,0,0
+P0467,Guangzhou,"3 Research, development and algorithms",Bachelor,Bachelor,1-3 years,75.0,10000+,0,0,0,0,0,0,0,0,0,0,0
+P0468,Shenzhen,"3 Research, development and algorithms",Bachelor,Bachelor,No requirement,22.5,10000+,0,0,0,0,0,0,0,0,0,0,0
+P0469,Shenzhen,"3 Research, development and algorithms",Bachelor,Bachelor,No requirement,40.0,100-499,0,1,0,1,0,0,0,0,0,0,0
+P0470,Shenzhen,"3 Research, development and algorithms",Bachelor,Bachelor,Student/graduate,27.0,10000+,0,1,0,1,0,0,0,0,0,0,0
+P0471,Shenzhen,"3 Research, development and algorithms",Bachelor,Bachelor,3-5 years,37.5,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0472,Shenzhen,"3 Research, development and algorithms",Bachelor,Bachelor,1-3 years,40.0,1000-9999,0,1,0,1,0,0,0,0,0,0,0
+P0473,Shenzhen,"3 Research, development and algorithms",Bachelor,Bachelor,,,100-499,1,0,0,1,0,0,0,0,0,0,0
+P0474,Shenzhen,"3 Research, development and algorithms",Bachelor,Bachelor,Student/graduate,31.5,10000+,0,1,0,1,0,0,0,0,0,0,0
+P0475,Shenzhen,"3 Research, development and algorithms",Bachelor,Bachelor,5-10 years,85.0,1000-9999,0,1,0,0,0,0,0,0,0,0,0
+P0476,Shenzhen,"3 Research, development and algorithms",Bachelor,Bachelor,5-10 years,32.5,1000-9999,0,1,0,1,0,0,0,0,0,0,0
+P0477,Shenzhen,"3 Research, development and algorithms",Bachelor,Bachelor,5-10 years,42.5,10000+,1,1,0,1,0,0,0,0,0,0,0
+P0478,Shenzhen,"3 Research, development and algorithms",Bachelor,Bachelor,<1 year,130.0,20-99,0,1,0,0,0,0,0,0,0,0,0
+P0479,Shenzhen,"3 Research, development and algorithms",Bachelor,Bachelor,Student/graduate,30.0,10000+,0,0,0,0,0,0,0,0,0,0,0
+P0480,Shenzhen,"3 Research, development and algorithms",Junior college,Junior college or below,3-5 years,19.5,1000-9999,0,1,0,1,0,0,0,0,0,0,0
+P0481,Shenzhen,"3 Research, development and algorithms",Bachelor,Bachelor,Student/graduate,32.5,10000+,0,0,0,0,0,0,0,0,0,0,0
+P0482,Dongguan,"3 Research, development and algorithms",Bachelor,Bachelor,Student/graduate,25.5,10000+,0,1,0,1,0,0,0,0,0,0,0
+P0483,Dongguan,"3 Research, development and algorithms",Bachelor,Bachelor,Student/graduate,30.0,10000+,0,1,0,0,0,0,0,0,0,0,0
+P0484,Dongguan,"3 Research, development and algorithms",Bachelor,Bachelor,Student/graduate,26.5,10000+,0,0,0,0,0,0,0,0,0,0,0
+P0485,Dongguan,"3 Research, development and algorithms",Bachelor,Bachelor,No requirement,22.5,10000+,0,1,0,1,0,0,0,0,0,0,0
+P0486,Dongguan,"3 Research, development and algorithms",Bachelor,Bachelor,Student/graduate,30.0,10000+,0,0,0,1,0,0,0,0,0,0,0
+P0487,Dongguan,"3 Research, development and algorithms",Bachelor,Bachelor,Student/graduate,30.0,10000+,0,1,0,0,0,0,0,0,0,0,0
+P0488,Dongguan,"3 Research, development and algorithms",Bachelor,Bachelor,No requirement,87.5,500-999,0,1,0,1,0,0,0,0,0,0,0
+P0489,Dongguan,"3 Research, development and algorithms",Master,Master,Student/graduate,21.5,500-999,1,1,0,1,0,0,0,0,0,0,0
+P0490,Dongguan,"3 Research, development and algorithms",Master,Master,Student/graduate,35.0,1000-9999,0,1,0,0,0,0,0,0,0,0,0
+P0491,Dongguan,"3 Research, development and algorithms",Bachelor,Bachelor,,,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0492,Dongguan,"3 Research, development and algorithms",Bachelor,Bachelor,5-10 years,37.5,1000-9999,1,1,0,1,0,0,0,0,0,0,0
+P0493,Foshan,"3 Research, development and algorithms",Doctorate,Doctorate,Student/graduate,32.5,10000+,0,1,0,0,0,0,0,0,0,0,0
+P0494,Foshan,"3 Research, development and algorithms",Bachelor,Bachelor,5-10 years,35.0,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0495,Foshan,"3 Research, development and algorithms",Bachelor,Bachelor,5-10 years,37.5,1000-9999,0,1,0,1,0,0,0,0,0,0,0
+P0496,Foshan,"3 Research, development and algorithms",Bachelor,Bachelor,No requirement,40.0,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0497,Foshan,"3 Research, development and algorithms",Bachelor,Bachelor,1-3 years,40.0,100-499,1,0,0,1,0,0,0,0,0,0,0
+P0498,Foshan,"3 Research, development and algorithms",Bachelor,Bachelor,1-3 years,65.0,1000-9999,1,1,0,1,0,0,0,0,0,0,0
+P0499,Foshan,"3 Research, development and algorithms",Master,Master,1-3 years,40.0,100-499,1,1,0,1,0,0,0,0,0,0,0
+P0500,Zhuhai,"3 Research, development and algorithms",Master,Master,3-5 years,30.0,1000-9999,1,1,0,1,0,0,0,0,0,0,0
+P0501,Huizhou,"3 Research, development and algorithms",Bachelor,Bachelor,5-10 years,37.5,100-499,0,1,0,1,0,0,0,0,0,0,0
+P0502,Huizhou,"3 Research, development and algorithms",Bachelor,Bachelor,3-5 years,21.0,10000+,0,1,0,1,0,0,0,0,0,0,0
+P0503,Zhongshan,"3 Research, development and algorithms",Master,Master,Student/graduate,32.5,10000+,0,1,0,1,0,0,0,0,0,0,0
+P0504,Guangzhou,5 AI applications and tools,Bachelor,Bachelor,3-5 years,35.0,10000+,0,1,0,0,0,0,0,0,0,0,0
+P0505,Guangzhou,5 AI applications and tools,Bachelor,Bachelor,1-3 years,20.0,20-99,0,1,0,1,0,0,0,0,0,0,0
+P0506,Guangzhou,"3 Research, development and algorithms",Bachelor,Bachelor,No requirement,85.0,0-20,1,1,0,1,0,1,0,0,1,0,1
+P0507,Guangzhou,6 Other related roles,Bachelor,Bachelor,5-10 years,27.5,10000+,0,0,0,1,0,0,0,0,0,0,0
+P0508,Guangzhou,5 AI applications and tools,Bachelor,Bachelor,3-5 years,45.0,1000-9999,0,1,0,1,0,0,0,0,0,0,0
+P0509,Guangzhou,5 AI applications and tools,Bachelor,Bachelor,10+ years,55.0,,0,1,0,1,0,0,0,0,0,0,0
+P0510,Shenzhen,5 AI applications and tools,Bachelor,Bachelor,3-5 years,55.0,,0,1,0,1,0,0,0,0,0,0,0
+P0511,Shenzhen,"3 Research, development and algorithms",Bachelor,Bachelor,No requirement,20.0,20-99,1,1,0,0,0,0,0,0,0,0,0
+P0512,Shenzhen,"3 Research, development and algorithms",Bachelor,Bachelor,1-3 years,35.0,100-499,0,1,0,1,0,0,0,0,0,0,0
+P0513,Shenzhen,6 Other related roles,Master,Master,Student/graduate,27.5,500-999,0,1,0,0,0,0,0,0,0,0,0
+P0514,Shenzhen,"3 Research, development and algorithms",Bachelor,Bachelor,Student/graduate,30.0,10000+,1,1,0,1,0,0,0,0,0,0,0
+P0515,Shenzhen,"3 Research, development and algorithms",Bachelor,Bachelor,,,20-99,0,1,0,1,0,0,0,0,0,0,0
+P0516,Shenzhen,"3 Research, development and algorithms",Bachelor,Bachelor,1-3 years,30.0,,0,1,0,1,0,0,0,0,0,0,0
+P0517,Shenzhen,6 Other related roles,Bachelor,Bachelor,,,0-20,0,1,0,0,0,0,0,0,0,0,0
+P0518,Shenzhen,"3 Research, development and algorithms",Bachelor,Bachelor,No requirement,45.0,10000+,0,1,0,1,0,0,0,0,0,0,0
+P0519,Shenzhen,"3 Research, development and algorithms",No requirement,No requirement,No requirement,50.0,,1,1,0,1,0,0,0,0,0,0,0
+P0520,Shenzhen,1 Delivery and implementation (FDE-type),Bachelor,Bachelor,1-3 years,45.0,,0,1,0,0,0,0,0,0,0,0,0
+P0521,Shenzhen,5 AI applications and tools,Bachelor,Bachelor,No requirement,55.0,100-499,0,1,0,0,0,0,0,0,0,0,0
+P0522,Shenzhen,5 AI applications and tools,Master,Master,No requirement,45.0,10000+,0,1,0,1,0,0,0,0,0,0,0
+P0523,Dongguan,4 Product and operations,Junior college,Junior college or below,1-3 years,7.5,20-99,1,0,0,0,0,0,0,0,0,0,0
+P0524,Foshan,6 Other related roles,No requirement,No requirement,1-3 years,,0-20,0,1,0,0,0,0,0,0,0,0,0

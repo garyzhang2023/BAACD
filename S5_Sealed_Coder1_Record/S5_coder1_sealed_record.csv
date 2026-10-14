@@ -1,0 +1,131 @@
+Q_id,job_family_code_1to6,dim_understand_business,dim_master_models,dim_know_security,dim_can_deliver
+Q001,1 Delivery and implementation (FDE-type),0,0,0,1
+Q002,2 Solutions and pre-sales,1,0,0,1
+Q003,"3 Research, development and algorithms",1,1,0,1
+Q004,4 Product and operations,1,0,0,0
+Q005,1 Delivery and implementation (FDE-type),1,0,0,1
+Q006,1 Delivery and implementation (FDE-type),1,0,0,1
+Q007,1 Delivery and implementation (FDE-type),0,0,0,0
+Q008,"3 Research, development and algorithms",1,1,0,1
+Q009,1 Delivery and implementation (FDE-type),1,1,0,1
+Q010,"3 Research, development and algorithms",1,1,0,1
+Q011,6 Other related roles,1,0,0,1
+Q012,6 Other related roles,1,1,0,1
+Q013,1 Delivery and implementation (FDE-type),1,0,0,1
+Q014,6 Other related roles,1,1,0,0
+Q015,2 Solutions and pre-sales,1,1,0,1
+Q016,5 AI applications and tools,0,0,0,0
+Q017,6 Other related roles,0,1,0,1
+Q018,6 Other related roles,0,0,0,0
+Q019,"3 Research, development and algorithms",0,0,0,0
+Q020,"3 Research, development and algorithms",1,1,0,1
+Q021,"3 Research, development and algorithms",1,0,0,1
+Q022,"3 Research, development and algorithms",1,0,0,0
+Q023,"3 Research, development and algorithms",0,0,0,0
+Q024,6 Other related roles,1,0,0,0
+Q025,"3 Research, development and algorithms",1,0,0,1
+Q026,5 AI applications and tools,1,1,0,0
+Q027,"3 Research, development and algorithms",0,1,0,0
+Q028,"3 Research, development and algorithms",0,1,0,1
+Q029,2 Solutions and pre-sales,1,1,0,0
+Q030,2 Solutions and pre-sales,0,1,1,1
+Q031,4 Product and operations,0,0,0,0
+Q032,5 AI applications and tools,1,1,0,1
+Q033,6 Other related roles,1,0,0,1
+Q034,1 Delivery and implementation (FDE-type),0,1,0,1
+Q035,1 Delivery and implementation (FDE-type),1,0,0,1
+Q036,1 Delivery and implementation (FDE-type),1,0,0,1
+Q037,6 Other related roles,0,0,0,0
+Q038,"3 Research, development and algorithms",0,1,0,1
+Q039,"3 Research, development and algorithms",0,1,0,1
+Q040,1 Delivery and implementation (FDE-type),0,1,0,0
+Q041,1 Delivery and implementation (FDE-type),1,0,0,1
+Q042,5 AI applications and tools,0,0,0,0
+Q043,1 Delivery and implementation (FDE-type),1,0,0,1
+Q044,1 Delivery and implementation (FDE-type),1,1,0,0
+Q045,4 Product and operations,1,0,0,0
+Q046,6 Other related roles,0,1,1,0
+Q047,5 AI applications and tools,1,1,0,0
+Q048,4 Product and operations,0,1,0,1
+Q049,"3 Research, development and algorithms",0,1,0,1
+Q050,"3 Research, development and algorithms",0,1,0,1
+Q051,"3 Research, development and algorithms",1,1,0,1
+Q052,2 Solutions and pre-sales,1,1,0,1
+Q053,1 Delivery and implementation (FDE-type),0,1,0,1
+Q054,6 Other related roles,1,0,0,0
+Q055,"3 Research, development and algorithms",1,1,0,1
+Q056,1 Delivery and implementation (FDE-type),0,0,0,0
+Q057,"3 Research, development and algorithms",0,0,0,0
+Q058,1 Delivery and implementation (FDE-type),1,1,0,1
+Q059,1 Delivery and implementation (FDE-type),1,1,0,1
+Q060,1 Delivery and implementation (FDE-type),1,1,0,1
+Q061,5 AI applications and tools,0,1,0,1
+Q062,1 Delivery and implementation (FDE-type),0,0,0,0
+Q063,2 Solutions and pre-sales,1,0,0,1
+Q064,4 Product and operations,1,0,0,0
+Q065,6 Other related roles,1,0,0,1
+Q066,1 Delivery and implementation (FDE-type),1,1,0,1
+Q067,1 Delivery and implementation (FDE-type),0,0,0,0
+Q068,1 Delivery and implementation (FDE-type),0,0,0,1
+Q069,1 Delivery and implementation (FDE-type),1,1,0,1
+Q070,1 Delivery and implementation (FDE-type),1,1,0,1
+Q071,2 Solutions and pre-sales,1,1,0,1
+Q072,1 Delivery and implementation (FDE-type),0,1,0,0
+Q073,"3 Research, development and algorithms",0,1,0,0
+Q074,5 AI applications and tools,1,0,0,0
+Q075,2 Solutions and pre-sales,0,1,0,0
+Q076,5 AI applications and tools,1,1,0,0
+Q077,"3 Research, development and algorithms",1,1,0,1
+Q078,"3 Research, development and algorithms",1,1,0,1
+Q079,"3 Research, development and algorithms",0,1,0,1
+Q080,1 Delivery and implementation (FDE-type),0,1,0,0
+Q081,6 Other related roles,1,0,0,0
+Q082,4 Product and operations,1,0,0,1
+Q083,6 Other related roles,1,0,0,1
+Q084,1 Delivery and implementation (FDE-type),0,1,0,0
+Q085,2 Solutions and pre-sales,1,1,0,1
+Q086,"3 Research, development and algorithms",0,1,0,0
+Q087,1 Delivery and implementation (FDE-type),1,0,0,1
+Q088,"3 Research, development and algorithms",1,1,0,1
+Q089,1 Delivery and implementation (FDE-type),0,0,0,1
+Q090,5 AI applications and tools,0,1,0,1
+Q091,4 Product and operations,1,0,0,1
+Q092,1 Delivery and implementation (FDE-type),0,1,0,1
+Q093,"3 Research, development and algorithms",1,1,0,1
+Q094,6 Other related roles,0,0,0,0
+Q095,6 Other related roles,1,0,0,1
+Q096,6 Other related roles,0,0,0,0
+Q097,1 Delivery and implementation (FDE-type),0,0,0,1
+Q098,1 Delivery and implementation (FDE-type),0,1,0,0
+Q099,1 Delivery and implementation (FDE-type),1,1,0,1
+Q100,1 Delivery and implementation (FDE-type),1,1,0,1
+Q101,1 Delivery and implementation (FDE-type),0,0,0,0
+Q102,1 Delivery and implementation (FDE-type),0,0,0,0
+Q103,6 Other related roles,1,0,0,1
+Q104,5 AI applications and tools,0,1,0,0
+Q105,"3 Research, development and algorithms",1,1,0,1
+Q106,4 Product and operations,0,0,0,1
+Q107,6 Other related roles,0,0,0,0
+Q108,6 Other related roles,0,0,0,0
+Q109,5 AI applications and tools,0,1,0,1
+Q110,1 Delivery and implementation (FDE-type),0,1,0,0
+Q111,1 Delivery and implementation (FDE-type),1,1,0,1
+Q112,6 Other related roles,0,0,0,0
+Q113,6 Other related roles,1,0,0,0
+Q114,6 Other related roles,1,0,0,0
+Q115,2 Solutions and pre-sales,1,1,0,1
+Q116,"3 Research, development and algorithms",1,1,0,1
+Q117,6 Other related roles,0,0,0,0
+Q118,5 AI applications and tools,0,1,0,0
+Q119,6 Other related roles,0,0,0,1
+Q120,1 Delivery and implementation (FDE-type),0,0,0,1
+Q121,"3 Research, development and algorithms",1,1,0,1
+Q122,6 Other related roles,1,1,0,1
+Q123,5 AI applications and tools,1,0,0,1
+Q124,1 Delivery and implementation (FDE-type),0,0,0,1
+Q125,"3 Research, development and algorithms",0,1,0,1
+Q126,5 AI applications and tools,1,1,0,1
+Q127,1 Delivery and implementation (FDE-type),0,0,0,1
+Q128,6 Other related roles,0,0,0,0
+Q129,"3 Research, development and algorithms",0,1,0,1
+Q130,1 Delivery and implementation (FDE-type),1,1,0,1
